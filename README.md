@@ -1,2 +1,2 @@
-# JSONEngine
-JSON functionalities suite
+# Python3-JsonEngine
+JSON functionalities suite in Python
